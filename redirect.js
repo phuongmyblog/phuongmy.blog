@@ -47,3 +47,4 @@ function in_object(obj, val) {
  return false;
 }
 DOMAssistant.DOMReady(checkLinks);
+//]]>
