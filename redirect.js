@@ -1,3 +1,4 @@
+<script>
 var redirect = &#39;int&#39;;
 var exclude_domains = [&#39;phuongmy.blog&#39;, &#39;www.phuongmy.blog&#39;,&#39;m.me/phuong.trannghia&#39;,&#39;bp.blogspot.com&#39;,&#39;www.blogger.com&#39;,&#39;blogger.com&#39;,&#39;facebook.com&#39;,&#39;my.azdigi.com&#39;,&#39;azdigi.com&#39;,];
 //<![CDATA[
@@ -48,3 +49,4 @@ function in_object(obj, val) {
 }
 DOMAssistant.DOMReady(checkLinks);
 //]]>
+</script>
